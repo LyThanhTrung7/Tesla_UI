@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/BottomBar/BottomBar.qml</file>
+        <file>ui/RightScreen/RightScreen.qml</file>
+        <file>ui/LeftScreen/LeftScreen.qml</file>
+        <file>ui/Image/car.png</file>
+        <file>ui/Image/Car_icon.png</file>
+        <file>ui/Image/lock.png</file>
+        <file>ui/Image/lock_up.png</file>
+        <file>ui/Image/user-account.png</file>
+        <file>ui/RightScreen/SearchBox.qml</file>
+        <file>ui/Image/search.png</file>
+        <file>ui/Image/left-arrow.png</file>
+        <file>ui/Image/right-arrow.png</file>
+        <file>ui/Image/air-conditioning.png</file>
+        <file>ui/Image/air-not-conditioning.png</file>
+        <file>ui/Image/icon_call.png</file>
+        <file>ui/Image/icon_setting.png</file>
+        <file>ui/Image/icon_spotify.jpg</file>
+        <file>ui/Image/icon_bluetooth.png</file>
+        <file>ui/Image/fan.png</file>
+        <file>ui/Image/audio_full.jpg</file>
+        <file>ui/Image/audio_medium.png</file>
+        <file>ui/Image/audio_off.png</file>
+        <file>ui/Image/fan_on.png</file>
+        <file>ui/Image/next-button.png</file>
+        <file>ui/Image/pre-button.png</file>
+        <file>ui/Image/icon_battery.png</file>
+        <file>ui/Image/type_car.jpg</file>
+        <file>ui/Image/screen2.jpg</file>
+        <file>ui/Image/screen3.jpg</file>
+        <file>ui/Image/screen.jpg</file>
+        <file>ui/Image/wheel.png</file>
+        <file>ui/Image/Headlight2.png</file>
+        <file>ui/Image/power.png</file>
+        <file>ui/Image/Seatbelt.png</file>
+        <file>ui/Image/navigation.png</file>
+    </qresource>
+</RCC>
